@@ -1,0 +1,6 @@
+module Pods_payit {
+  umbrella header "Pods-payit-umbrella.h"
+
+  export *
+  module * { export * }
+}
